@@ -1,0 +1,14 @@
+Summary made on July 10 2022
+
+=================== Problems ===================
+
+Frequent question: crashes on battles/takes much more time than expected to load, network isn't always the cause of all of those issues all the time (verified with speed tests) 
+Jailam & Alpah = Both on mobile/PC, cannot enter the game, even though it works fine for others, for me for example, clearing the cache did not help, doesn t seem to be a network issue
+
+=================== Links ===================
+
+https://discord.com/channels/476511575495409705/502818592094552074/991523564572397659
+https://discord.com/channels/476511575495409705/502818592094552074/994650115899936893 (No answer)
+https://discord.com/channels/476511575495409705/502818592094552074/995772773584605245
+
+========================================================
