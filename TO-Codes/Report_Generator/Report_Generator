@@ -4,10 +4,10 @@ if [ $# -eq 0 ]
   then
     exit 84
 fi
-
 p="Weekly_Report.txt"
 dir=$(grep -s "PROJECT_DIR" $1 | cut -d ";" -f 2)
-read mon day year < <(date -d "2 days" "+%b %_d %Y")
+read mon day year < <(date -d "2 days" "+%B %d %Y")
+day=$((day - 2))
 testdate="$mon $day $year"
 
 if test -f "$1"; then
