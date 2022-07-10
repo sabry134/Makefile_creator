@@ -53,8 +53,7 @@ if test -f "$1"; then
         echo -e "\n=================== Additional Informations ===================\n" >> $dir/$p
         value=`cat $1`
         value="${value#*MORE;}"
-        value="${value%%END*}"
-        printf '%s\n' "$value"  
+        value="${value%%END*}" 
         echo -e "$value" >> $dir/$p
         fi
         echo -e "\n========================================================" >> $dir/$p
